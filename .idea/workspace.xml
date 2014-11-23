@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lambda.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lambda.py">
+      <file leaf-file-name="metaclass.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/metaclass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08219178" vertical-offset="0" max-vertical-offset="365">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.739726" vertical-offset="210" max-vertical-offset="630">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -48,6 +48,7 @@
         <option value="$PROJECT_DIR$/regex.py" />
         <option value="$PROJECT_DIR$/introspection.py" />
         <option value="$PROJECT_DIR$/lambda.py" />
+        <option value="$PROJECT_DIR$/metaclass.py" />
       </list>
     </option>
   </component>
@@ -461,6 +462,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08219178" vertical-offset="0" max-vertical-offset="365">
           <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.739726" vertical-offset="210" max-vertical-offset="630">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
           <folding />
         </state>
       </provider>
