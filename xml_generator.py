@@ -1,3 +1,5 @@
+# Library info: https://docs.python.org/3.4/library/xml.html
+
 from xml.etree.ElementTree import Element, SubElement, tostring
 
 root = Element('rebels')
