@@ -25,12 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="global_vs_local.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/global_vs_local.py">
+      <file leaf-file-name="metaprogramming_decorators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/metaprogramming_decorators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="390">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.61538464" vertical-offset="0" max-vertical-offset="390">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +65,7 @@
         <option value="$PROJECT_DIR$/towers_of_hanoi.py" />
         <option value="$PROJECT_DIR$/implicit_properties_attributes.py" />
         <option value="$PROJECT_DIR$/global_vs_local.py" />
+        <option value="$PROJECT_DIR$/metaprogramming_decorators.py" />
       </list>
     </option>
   </component>
@@ -568,6 +571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5091384" vertical-offset="0" max-vertical-offset="383">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -633,6 +637,16 @@
         <state vertical-scroll-proportion="0.1923077" vertical-offset="0" max-vertical-offset="390">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/metaprogramming_decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61538464" vertical-offset="0" max-vertical-offset="390">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
